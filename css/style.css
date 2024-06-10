@@ -1,0 +1,114 @@
+body    {
+    background-color: gray;
+}
+
+.logout {
+    color: white;
+    background-color: red;
+    font-size: 150%;
+    text-align: center;
+}
+
+.logout a {
+    color: white;
+    transition-duration: 0.4s; 
+}
+
+.logout a:hover {
+    background-color: white;
+    color: black;
+}
+
+.login {
+    color: white;
+    background-color: rgb(48, 123, 244);
+    font-size: 150%;
+    text-align: center;
+}
+
+.login a {
+    color: white; 
+    transition-duration: 0.4s;
+}
+
+.login a:hover {
+    background-color: white;
+    color: black;
+}
+
+.signup {
+    color: white;
+    background-color: rgb(34, 212, 34);
+    font-size: 150%;
+    text-align: center;
+}
+
+.signup a {
+    color: white;
+}
+
+.signup a:hover {
+    background-color: white;
+    color: black;
+    transition-duration: 0.4s;
+}
+
+button  {
+    transition-duration: 0.4s;
+}
+
+button:hover    {
+    background-color: white;
+    color: black;
+}
+
+.profile_pic {
+    width: 3rem;
+}
+
+.blog a {
+    color: rgb(68, 165, 255);
+}
+
+
+.post a {
+    color: rgb(68, 165, 255);
+}
+
+.post a:visited {
+    color: rgb(10, 80, 180); 
+}
+
+.profile a {
+    color: rgb(68, 165, 255);
+}
+
+.profile a:visited {
+    color: rgb(10, 80, 180); 
+}
+
+.blog a:visited {
+    color: rgb(10, 80, 180); 
+}
+
+.category a {
+    color: rgb(68, 165, 255);
+}
+
+.category a:visited {
+    color: rgb(10, 80, 180); 
+}
+
+.blog_thumbnail {
+    width: 10em;
+    height: auto;
+}
+
+.post_thumbnail {
+    width: 12em;
+    height: auto;
+}
+
+label.error {
+    color: red;
+}
